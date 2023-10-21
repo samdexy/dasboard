@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'Isidora';
+    font-style: normal;
+    font-weight: 500;
+    src: url('/fonts/isidora/IsidoraSans-Medium.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Isidora';
+    font-style: bold;
+    font-weight: 700;
+    src: url('/fonts/isidora/IsidoraSans-Bold.woff2') format('woff2');
+}
+
+
+
